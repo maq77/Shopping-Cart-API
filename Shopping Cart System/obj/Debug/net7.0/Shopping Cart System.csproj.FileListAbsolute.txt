@@ -1,0 +1,37 @@
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\appsettings.Development.json
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\appsettings.json
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\Shopping Cart System.staticwebassets.endpoints.json
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\Shopping Cart System.exe
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\Shopping Cart System.deps.json
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\Shopping Cart System.runtimeconfig.json
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\Shopping Cart System.dll
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\Shopping Cart System.pdb
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\Microsoft.OpenApi.dll
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Shopping Cart System\Shopping Cart System\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\Shopping Cart System.csproj.AssemblyReference.cache
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\Shopping Cart System.GeneratedMSBuildEditorConfig.editorconfig
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\Shopping Cart System.AssemblyInfoInputs.cache
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\Shopping Cart System.AssemblyInfo.cs
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\Shopping Cart System.csproj.CoreCompileInputs.cache
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\Shopping Cart System.MvcApplicationPartsAssemblyInfo.cs
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\Shopping Cart System.MvcApplicationPartsAssemblyInfo.cache
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\scopedcss\bundle\Shopping Cart System.styles.css
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\staticwebassets.build.json
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\staticwebassets.development.json
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\staticwebassets\msbuild.Shopping Cart System.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\staticwebassets\msbuild.Shopping Cart System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\staticwebassets\msbuild.build.Shopping Cart System.props
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Shopping Cart System.props
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Shopping Cart System.props
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\staticwebassets.pack.json
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\Shopping.B36289A9.Up2Date
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\Shopping Cart System.dll
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\refint\Shopping Cart System.dll
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\Shopping Cart System.pdb
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\Shopping Cart System.genruntimeconfig.cache
+A:\Shopping Cart System\Shopping Cart System\obj\Debug\net7.0\ref\Shopping Cart System.dll
